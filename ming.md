@@ -363,8 +363,8 @@
 <p></p>
 <table>
 <tr>
-<td width=500 ><a href="https://github.com/sodore/dsdsa/blob/master/epub/s-fangqian.epub?raw=true" target="_blank">【惊人！湖北参与迫害法轮功者遭恶报实录】</a></td>
-<td width=380 ><a href="https://github.com/sodore/dsdsa/blob/master/epub/s-fangqian.epub?raw=true">(图文).下载</a></td></tr>
+<td width=500 ><a href="https://github.com/sodore/dsdsa/blob/master/epub/dd-k56.epub?raw=true" target="_blank">【惊人！湖北参与迫害法轮功者遭恶报实录】</a></td>
+<td width=380 ><a href="https://github.com/sodore/dsdsa/blob/master/epub/dd-k56.epub?raw=true">(图文).下载</a></td></tr>
 
 <tr>
 <td width=500 ><a href="https://github.com/sodore/dsdsa/blob/master/epub/200-uu.epub?raw=true" target="_blank">【二百中共公安局长派出所长遭恶报实录(上、下篇)】</a></td>
