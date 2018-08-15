@@ -295,6 +295,15 @@
 <td width=500><a href="https://github.com/sodore/dsdsa/blob/master/epub/dejlk.epub?raw=true" target="_blank">【 (真相)-控告江泽民】</a></td>
 <td width=380><a href="https://github.com/sodore/dsdsa/blob/master/epub/dejlk.epub?raw=true">(图文).下载(epub)</a></td></tr>
 
+
+ <tr>
+<td width=500><a href="https://github.com/sodore/dsdsa/blob/master/epub/jzmqr-pic-235.epub?raw=true" target="_blank">【万人诉江 为何江泽民成被控告元凶？(上、下篇)】</a></td>
+<td width=380><a href="https://github.com/sodore/dsdsa/blob/master/epub/jzmqr-pic-235.epub?raw=true">(图文、音頻).下载(epub)</a></td></tr>
+
+<tr>
+<td width=500><a href="https://github.com/sodore/dsdsa/blob/master/epub/jzmqr-pic-236.epub?raw=true" target="_blank">【“法办江泽民”惊现美国务院报告背后（1~2篇）】</a></td>
+<td width=380><a href="https://github.com/sodore/dsdsa/blob/master/epub/jzmqr-pic-236.epub?raw=true">(图文、音頻).下载(epub)</a></td></tr>
+
  <tr>
 <td width=500><a href="https://github.com/sodore/dsds/blob/master/book/zfzx.epub?raw=true" target="_blank">【天安门自焚是中共栽赃陷害法轮功的骗局】</a></td>
 <td width=380><a href="https://github.com/sodore/dsds/blob/master/book/zfzx.epub?raw=true">(图文、視頻).下载(epub)</a></td></tr>
