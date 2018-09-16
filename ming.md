@@ -468,11 +468,8 @@
 <tr>
 <td>
  <div align=center>
- <img src="images/E0515.jpg" width=450>
+  <img src="images/E0515.jpg" width=450></p>
 
-<p></p>
-
- 
  <h3> <a href="https://git.io/ssss2">◆ 大清算已开始，机缘稍纵即逝 </a></h3></p>
 
 ■ 丢官坐牢也只是恶报的开始，更大恶报还在后头。明慧网报道了上万起因迫害法轮功遭恶报的案例——致残、自杀、暴病、雷击、车祸……还有不少恶报殃及作恶者全家或子孙。</p>
